@@ -12,7 +12,6 @@ public class GitHup {
      */
     public static void main(String[] args) {
         System.out.println("Bonjour azzi");
-        int a=0;
     }
     
 }
